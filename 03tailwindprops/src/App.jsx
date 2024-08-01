@@ -9,7 +9,7 @@ function App() {
     <>
      <h1 className='bg-green-500 rounded-lg text-white p-3 mb-10'>Tailwind Test</h1>
     <Card channels={channels[0]}/>
-    <Card channels={channels[1]} btnText="Visit me"/>
+    <Card channels={channels[1]} btnText="Visit Me"/>
     <Card channels={channels[2]} btnText="Go"/>
     </>
   )
