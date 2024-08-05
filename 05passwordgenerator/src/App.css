@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(84, 84, 36);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
