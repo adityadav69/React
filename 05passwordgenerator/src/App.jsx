@@ -58,7 +58,7 @@ function App() {
           <div className='range flex gap-x-1'>
             <input
               type="range"
-              min={6}
+              min={4}
               max={50}
               value={length}
               className='cursor-pointer'
