@@ -43,11 +43,6 @@ const router=createBrowserRouter(
      loader={loadData}
      element=<Github/>
       />
-
-
-
-
-
     </Route>
   )
 )
