@@ -87,7 +87,7 @@ export default function Contact() {
                             </div>
                         </div>
 
-                        <form className="p-6 flex flex-col justify-center">
+                        <form className="p-5 flex flex-col justify-center">
                             <div className="flex flex-col">
                                 <label for="name" className="hidden">
                                     Full Name
